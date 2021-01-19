@@ -4,8 +4,8 @@
     "name": "squizzy"
   },
   "api": {
-    "projectId": "puj7p168",
-    "dataset": "production"
+    "projectId": "seymis1y",
+    "dataset": "squizzy"
   },
   "plugins": [
     "@sanity/base",
